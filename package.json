@@ -1,5 +1,5 @@
 {
-  "name": "simpsonsApi",
+  "name": "speakerly",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meloneminze/simpsonsApi.git"
+    "url": "git+https://github.com/meloneminze/speakerly.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meloneminze/simpsonsApi/issues"
+    "url": "https://github.com/meloneminze/speakerly/issues"
   },
-  "homepage": "https://github.com/meloneminze/simpsonsApi#readme",
+  "homepage": "https://github.com/meloneminze/speakerly#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",

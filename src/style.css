@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pads {
+    display: flex;
+    flex-flow: row wrap;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.pad {
+    flex: 1 30%;
+    width: 10rem;
+    height: 20rem;
+    margin: 1rem;
+    cursor: pointer;
+    background: rgb(255, 182, 127);
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+}
